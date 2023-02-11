@@ -1,2 +1,7 @@
-# links-uteis
-Links Úteis
+# **Links úteis:**
+
+*[**Guia Markdown**](https://www.markdownguide.org)
+
+*[**Emoji Mart (Markdown emojis)**](https://missiveapp.com/open/emoji-mart)
+
+*[**Free Icons**](https://fontawesome.com/search?m=free)
